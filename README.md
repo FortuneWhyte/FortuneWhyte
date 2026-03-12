@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋I am a motivated software developer with an Associate Degree in Computer Science. I blend technical precision with creative design to build robust backends and stunning interactive frontends. Currently, I am expanding my skill set by exploring machine learning.
+
+
 
 <!--
 **FortuneWhyte/FortuneWhyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
