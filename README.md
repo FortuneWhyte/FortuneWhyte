@@ -1,18 +1,28 @@
-## Hi there 👋I am a motivated software developer with an Associate Degree in Computer Science. I blend technical precision with creative design to build robust backends and stunning interactive frontends. Currently, I am expanding my skill set by exploring machine learning.
+# Hi there 👋, I'm Fortune Whyte
 
+## 👨‍💻 About Me
+I am a motivated software developer with an Associate Degree in Computer Science. I blend technical precision with creative design. Currently exploring machine learning.
 
+## 🛠️ Tech Stack
+Here are the languages and frameworks I work with:
 
-<!--
-**FortuneWhyte/FortuneWhyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+- **C++**
+- **Python**
+- **HTML / CSS / JavaScript**
+- **TypeScript**
+- **SQL**
 
-Here are some ideas to get you started:
+### Technologies & Frameworks
+- **ReactJS**
+- **Node.js**
+- **PostgreSQL**
+- **Framer Motion**
+- **Vite**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Let's Connect!
+- 🌐 **Portfolio Site:** [github.com/FortuneWhyte/portfolio-dev](https://github.com/FortuneWhyte/portfolio-dev) *(Live link coming soon!)*
+- 💼 **LinkedIn:** [Fortune Whyte](#) *(Be sure to update this with your actual profile link)*
+- ✉️ **Email:** [greatfortunewhyte@yahoo.com](mailto:greatfortunewhyte@yahoo.com)
