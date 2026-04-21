@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Fortune Whyte
 
 ## 👨‍💻 About Me
-I blend technical precision with creative design to build robust backends and stunning interactive frontends. Currently, I am expanding my skill set by exploring machine learning.
+I blend technical precision with creative design to build robust backends and stunning interactive frontends. Currently, I am expanding my skill set by exploring machine-learning.
 
 ## 🛠️ Tech Stack
 
